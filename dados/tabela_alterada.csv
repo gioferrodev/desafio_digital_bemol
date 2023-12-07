@@ -1,0 +1,900 @@
+Centro,Unidade,Produto,Valor unitário,Cod_Vendedor,Qtd,Data_compra
+101,Avenida,Brinquedos,400,49590,17,2021-04-25
+103,Cidade Nova,Berço,690,55354,14,2021-03-24
+106,Avenida,Fogão,1834,19231,3,2021-03-31
+104,Avenida,Powerbank,120,19231,5,2021-06-16
+104,Amazonas Shopping,Mi Band 6,400,15176,20,2022-02-24
+102,Amazonas Shopping,Samsung,1700,17988,12,2021-07-08
+106,Eduardo Gomes,Sofá,1550,41311,14,2021-04-15
+106,Nova cidade,Sofá,1550,34535,17,2021-07-26
+101,Amazonas Shopping,Berço,690,11022,10,2021-09-13
+106,Eduardo Gomes,Mi Band 6,400,41414,7,2021-11-27
+103,Cidade Nova,Berço,690,13414,19,2021-04-23
+103,Cidade Nova,Microondas,600,55354,16,2022-01-19
+101,Matriz,Samsung,1700,481,20,2021-04-09
+103,Avenida,Xbox series s,2000,14141,1,2021-12-20
+101,Nova cidade,Cadeira Gamer,1200,67889,2,2021-05-28
+101,Eduardo Gomes,Ar condicionado,1700,481,13,2022-01-17
+106,Eduardo Gomes,Bicicleta,1200,200004434,16,2021-01-27
+105,Eduardo Gomes,Iphone,7500,481,17,2021-02-20
+103,Eduardo Gomes,Ar condicionado,1700,41311,4,2022-02-17
+105,Eduardo Gomes,Televisão,2320,20000541,9,2021-06-07
+104,Nova cidade,Fogão,1834,34535,3,2021-10-03
+106,Eduardo Gomes,Fogão,1834,41311,10,2021-10-13
+104,Nova cidade,Microondas,600,14951,12,2021-01-12
+106,Eduardo Gomes,Fogão,1834,481,15,2021-04-05
+105,Matriz,Mouse,47,44993,8,2021-02-01
+106,Nova cidade,Iphone,7500,49592,16,2022-02-19
+104,Matriz,Brinquedos,400,44993,15,2021-02-06
+104,Cidade Nova,Mi Band 6,400,55354,8,2021-01-27
+101,Avenida,Teclado,215,19231,4,2021-10-18
+102,Matriz,Teclado,215,41949,19,2022-02-14
+102,Eduardo Gomes,Mi Band 6,400,41311,9,2021-07-03
+101,Eduardo Gomes,Teclado,215,20000541,10,2021-11-28
+101,Avenida,Monitor,1100,49590,6,2021-08-06
+102,Cidade Nova,Fogão,1834,13414,2,2021-08-06
+103,Avenida,Cama,1300,14141,10,2021-06-28
+101,Avenida,Geladeira,3456,2592,13,2021-05-29
+101,Nova cidade,Berço,690,10934,9,2021-08-08
+103,Avenida,Fone de Ouvido,198,49590,8,2021-02-06
+103,Cidade Nova,Fogão,1834,55354,12,2021-02-18
+103,Matriz,Bebedouro,550,44993,13,2021-08-04
+105,Eduardo Gomes,Televisão,2320,41414,15,2021-10-24
+104,Eduardo Gomes,Microondas,600,481,20,2021-12-21
+103,Cidade Nova,Berço,690,2123,7,2021-12-01
+105,Avenida,Geladeira,3456,29020,19,2022-01-21
+104,Amazonas Shopping,Powerbank,120,17988,9,2021-11-21
+103,Amazonas Shopping,Mi Band 6,400,5657,9,2021-12-23
+101,Nova cidade,Fogão,1834,34535,13,2021-11-24
+102,Avenida,Ar condicionado,1700,14141,10,2021-09-18
+105,Avenida,Televisão,2320,29020,3,2021-08-04
+102,Eduardo Gomes,Fone de Ouvido,198,200004434,9,2021-12-05
+105,Matriz,Geladeira,3456,41949,3,2021-06-17
+104,Matriz,Guarda Roupa,710,41949,2,2022-01-07
+104,Eduardo Gomes,Xbox series s,2000,41311,18,2021-04-07
+106,Avenida,Fone de Ouvido,198,2592,18,2021-01-06
+103,Matriz,Mouse,47,481,17,2021-03-12
+104,Amazonas Shopping,Ar condicionado,1700,4428,4,2021-07-29
+104,Nova cidade,Iphone,7500,49592,20,2021-08-22
+101,Cidade Nova,Mi Band 6,400,5663,8,2021-02-23
+102,Matriz,Xbox series s,2000,41949,8,2021-03-27
+103,Matriz,Cadeira Gamer,1200,44993,17,2021-02-09
+104,Cidade Nova,Notebook,3115,13414,2,2021-12-08
+103,Nova cidade,Microondas,600,14951,12,2021-10-19
+105,Matriz,Microondas,600,41949,2,2022-01-09
+105,Avenida,Iphone,7500,49590,7,2021-03-22
+106,Avenida,Ar condicionado,1700,2592,7,2021-09-27
+101,Eduardo Gomes,Mi Band 6,400,41414,1,2021-05-10
+104,Eduardo Gomes,Mi Band 6,400,200004434,8,2021-01-28
+104,Eduardo Gomes,Brinquedos,400,41414,17,2022-01-26
+106,Eduardo Gomes,Powerbank,120,481,18,2022-01-16
+104,Amazonas Shopping,Powerbank,120,5657,11,2021-12-21
+106,Nova cidade,Brinquedos,400,10934,16,2021-12-27
+102,Amazonas Shopping,Fone de Ouvido,198,45689,15,2022-02-16
+101,Avenida,Bebedouro,550,14141,7,2021-01-09
+104,Eduardo Gomes,Fone de Ouvido,198,20000541,14,2021-12-04
+102,Eduardo Gomes,Microondas,600,20000541,14,2021-10-11
+104,Cidade Nova,Mi Band 6,400,13414,4,2021-05-01
+101,Matriz,Cadeira Gamer,1200,11022,6,2022-01-21
+104,Matriz,Powerbank,120,41949,11,2022-01-21
+103,Cidade Nova,Sofá,1550,55453,8,2021-11-24
+105,Matriz,Berço,690,481,13,2021-12-21
+106,Avenida,Samsung,1700,19231,1,2021-03-02
+103,Eduardo Gomes,Bebedouro,550,481,7,2021-08-11
+103,Matriz,Jogo de Panela,340,41949,6,2021-08-20
+101,Amazonas Shopping,Cama,1300,4428,20,2022-01-23
+105,Nova cidade,Fogão,1834,49592,19,2021-10-30
+106,Cidade Nova,Cama,1300,13414,6,2021-07-18
+106,Avenida,Cama,1300,19231,4,2022-01-03
+102,Nova cidade,Teclado,215,67889,3,2021-01-18
+102,Matriz,Televisão,2320,41949,5,2021-12-10
+102,Nova cidade,Sofá,1550,10934,14,2021-10-26
+103,Amazonas Shopping,Notebook,3115,45689,5,2021-11-03
+103,Matriz,Sofá,1550,141000,5,2022-02-15
+102,Cidade Nova,Teclado,215,55453,12,2021-02-25
+105,Nova cidade,Teclado,215,34535,12,2021-02-08
+102,Cidade Nova,Xbox series s,2000,5663,2,2021-09-13
+103,Amazonas Shopping,Berço,690,4428,10,2022-01-21
+102,Avenida,Microondas,600,29020,18,2021-02-10
+101,Matriz,Guarda Roupa,710,141000,11,2021-07-08
+106,Avenida,Xbox series s,2000,49590,6,2021-11-22
+105,Eduardo Gomes,Geladeira,3456,41414,4,2021-07-13
+102,Cidade Nova,Xbox series s,2000,55354,6,2021-12-23
+105,Matriz,Bebedouro,550,44993,5,2021-01-19
+102,Amazonas Shopping,Mouse,47,17988,1,2021-05-20
+106,Avenida,Sofá,1550,19231,1,2021-08-26
+102,Avenida,Ar condicionado,1700,14141,5,2021-06-06
+101,Eduardo Gomes,Mouse,47,41414,2,2021-10-24
+106,Avenida,Televisão,2320,14141,3,2021-04-29
+102,Amazonas Shopping,Televisão,2320,17988,16,2021-03-23
+106,Amazonas Shopping,Monitor,1100,15176,4,2021-04-11
+103,Amazonas Shopping,Bebedouro,550,45689,18,2021-08-04
+101,Avenida,Sofá,1550,19231,20,2022-02-04
+104,Nova cidade,Televisão,2320,10934,19,2021-05-14
+102,Matriz,Cama,1300,44993,12,2021-04-10
+104,Cidade Nova,Jogo de Panela,340,13414,20,2021-07-30
+105,Cidade Nova,Mouse,47,55354,10,2021-02-16
+103,Amazonas Shopping,Bicicleta,1200,15176,16,2021-03-17
+103,Eduardo Gomes,Bebedouro,550,41311,15,2021-03-09
+104,Eduardo Gomes,Bebedouro,550,41414,16,2021-05-23
+105,Cidade Nova,Ar condicionado,1700,5663,4,2021-01-17
+105,Avenida,Xbox series s,2000,49590,18,2022-01-06
+104,Amazonas Shopping,Teclado,215,17988,4,2021-05-05
+106,Nova cidade,Cama,1300,10934,7,2021-08-19
+103,Eduardo Gomes,Sofá,1550,200004434,9,2021-12-19
+103,Nova cidade,Mouse,47,10934,14,2021-10-10
+101,Amazonas Shopping,Xbox series s,2000,45689,4,2021-08-12
+104,Matriz,Mouse,47,481,18,2021-09-08
+102,Nova cidade,Bicicleta,1200,34535,8,2021-03-12
+103,Nova cidade,Teclado,215,10934,6,2021-09-03
+103,Eduardo Gomes,Microondas,600,200004434,5,2021-01-07
+105,Cidade Nova,Brinquedos,400,5663,7,2021-09-08
+102,Cidade Nova,Guarda Roupa,710,5663,9,2021-04-29
+105,Nova cidade,Televisão,2320,67889,11,2021-04-22
+101,Matriz,Iphone,7500,44993,12,2021-05-02
+104,Cidade Nova,Televisão,2320,55354,17,2021-06-20
+101,Matriz,Teclado,215,44993,3,2021-02-25
+101,Eduardo Gomes,Cadeira Gamer,1200,200004434,8,2021-05-18
+106,Amazonas Shopping,Televisão,2320,45689,16,2021-02-27
+106,Matriz,Televisão,2320,481,20,2021-03-25
+101,Amazonas Shopping,Ar condicionado,1700,14522,4,2021-03-01
+101,Eduardo Gomes,Iphone,7500,41414,12,2021-12-20
+102,Eduardo Gomes,Monitor,1100,481,8,2021-04-02
+102,Avenida,Cama,1300,19231,1,2021-12-29
+105,Amazonas Shopping,Geladeira,3456,15176,7,2021-07-24
+101,Amazonas Shopping,Notebook,3115,4428,11,2022-01-31
+105,Avenida,Geladeira,3456,19231,17,2021-05-23
+102,Amazonas Shopping,Bicicleta,1200,15176,19,2021-11-17
+106,Nova cidade,Televisão,2320,67889,5,2022-02-06
+106,Matriz,Xbox series s,2000,481,20,2021-02-23
+102,Matriz,Powerbank,120,481,10,2021-07-14
+106,Matriz,Fone de Ouvido,198,41949,15,2022-02-05
+102,Cidade Nova,Notebook,3115,55453,8,2021-09-13
+101,Nova cidade,Powerbank,120,10934,2,2021-01-26
+104,Avenida,Sofá,1550,14141,6,2021-03-14
+102,Cidade Nova,Mi Band 6,400,5663,15,2022-01-30
+102,Nova cidade,Fone de Ouvido,198,67889,6,2022-02-03
+101,Nova cidade,Ar condicionado,1700,10934,16,2021-05-06
+106,Matriz,Bebedouro,550,481,20,2022-01-16
+106,Avenida,Jogo de Panela,340,2592,9,2021-12-17
+101,Nova cidade,Guarda Roupa,710,67889,6,2021-02-04
+103,Matriz,Xbox series s,2000,481,8,2022-02-09
+106,Nova cidade,Geladeira,3456,10934,7,2021-07-15
+102,Amazonas Shopping,Ar condicionado,1700,15176,12,2022-01-03
+102,Eduardo Gomes,Fone de Ouvido,198,20000541,11,2021-09-29
+105,Matriz,Bebedouro,550,44993,13,2021-11-25
+103,Avenida,Berço,690,19231,6,2021-10-18
+103,Amazonas Shopping,Samsung,1700,45689,7,2022-01-16
+101,Matriz,Mi Band 6,400,141000,20,2021-04-04
+104,Avenida,Cama,1300,11022,1,2021-09-21
+105,Matriz,Powerbank,120,44993,19,2021-09-19
+103,Amazonas Shopping,Mi Band 6,400,45689,17,2021-12-07
+106,Matriz,Fone de Ouvido,198,44993,5,2021-02-27
+102,Amazonas Shopping,Notebook,3115,15176,15,2021-03-24
+102,Amazonas Shopping,Geladeira,3456,5657,9,2021-08-26
+104,Matriz,Cadeira Gamer,1200,44993,13,2021-06-28
+106,Avenida,Bicicleta,1200,29020,12,2022-01-28
+104,Eduardo Gomes,Geladeira,3456,200004434,4,2021-04-08
+105,Amazonas Shopping,Monitor,1100,45689,20,2021-09-30
+105,Cidade Nova,Geladeira,3456,13414,14,2022-02-21
+102,Eduardo Gomes,Brinquedos,400,200004434,5,2021-06-10
+105,Avenida,Fogão,1834,14141,19,2021-05-04
+105,Amazonas Shopping,Bebedouro,550,17988,5,2021-11-18
+105,Eduardo Gomes,Powerbank,120,41311,7,2021-11-09
+103,Cidade Nova,Jogo de Panela,340,5663,8,2021-05-07
+102,Nova cidade,Samsung,1700,10934,8,2021-12-10
+101,Nova cidade,Xbox series s,2000,10934,9,2021-11-22
+105,Avenida,Cama,1300,49590,14,2022-02-16
+104,Avenida,Jogo de Panela,340,2592,7,2021-01-08
+103,Avenida,Monitor,1100,19231,9,2022-02-16
+104,Eduardo Gomes,Bicicleta,1200,41311,8,2021-10-12
+105,Cidade Nova,Xbox series s,2000,55453,14,2021-05-07
+101,Cidade Nova,Bicicleta,1200,5663,5,2021-10-08
+101,Cidade Nova,Televisão,2320,55354,4,2021-08-27
+103,Matriz,Brinquedos,400,44993,8,2022-01-29
+105,Amazonas Shopping,Teclado,215,14522,18,2021-11-24
+104,Cidade Nova,Brinquedos,400,55354,19,2021-09-02
+103,Eduardo Gomes,Notebook,3115,200004434,6,2021-01-05
+106,Cidade Nova,Geladeira,3456,5663,18,2021-08-19
+104,Avenida,Iphone,7500,49590,19,2021-01-08
+104,Avenida,Guarda Roupa,710,14141,20,2022-01-06
+104,Eduardo Gomes,Iphone,7500,20000541,17,2021-05-30
+102,Matriz,Televisão,2320,41949,12,2021-09-10
+106,Matriz,Monitor,1100,481,8,2021-06-04
+102,Avenida,Bebedouro,550,49590,5,2022-02-15
+101,Amazonas Shopping,Iphone,7500,4428,7,2021-01-22
+101,Cidade Nova,Cadeira Gamer,1200,5663,1,2021-12-22
+103,Nova cidade,Jogo de Panela,340,49592,18,2021-10-27
+105,Matriz,Berço,690,481,12,2021-03-05
+102,Amazonas Shopping,Iphone,7500,11022,4,2021-03-27
+101,Eduardo Gomes,Teclado,215,41414,12,2021-10-03
+104,Cidade Nova,Mouse,47,5663,15,2021-08-19
+104,Matriz,Mouse,47,481,20,2021-10-22
+102,Avenida,Samsung,1700,19231,17,2021-12-24
+103,Amazonas Shopping,Iphone,7500,5657,4,2021-02-20
+103,Matriz,Sofá,1550,41949,3,2021-09-16
+105,Nova cidade,Brinquedos,400,49592,13,2021-11-09
+103,Matriz,Xbox series s,2000,44993,1,2021-12-20
+103,Amazonas Shopping,Powerbank,120,5657,20,2021-04-28
+106,Matriz,Samsung,1700,481,3,2021-03-23
+105,Amazonas Shopping,Cama,1300,4428,2,2021-03-19
+106,Amazonas Shopping,Monitor,1100,4428,7,2022-02-02
+101,Eduardo Gomes,Berço,690,41311,1,2021-08-10
+104,Avenida,Guarda Roupa,710,49590,19,2021-04-22
+105,Cidade Nova,Iphone,7500,55354,9,2021-03-06
+106,Nova cidade,Fogão,1834,34535,6,2021-09-19
+105,Matriz,Jogo de Panela,340,44993,19,2021-02-21
+106,Nova cidade,Ar condicionado,1700,49592,3,2021-06-04
+104,Matriz,Teclado,215,41949,13,2021-03-02
+106,Nova cidade,Sofá,1550,14951,20,2021-04-18
+102,Cidade Nova,Xbox series s,2000,13414,15,2021-03-29
+102,Amazonas Shopping,Iphone,7500,15176,18,2021-03-26
+104,Matriz,Teclado,215,481,16,2022-01-02
+104,Avenida,Geladeira,3456,49590,11,2021-07-03
+106,Eduardo Gomes,Xbox series s,2000,41311,6,2021-03-10
+104,Eduardo Gomes,Bebedouro,550,481,17,2021-12-08
+104,Avenida,Xbox series s,2000,14141,20,2022-01-09
+101,Eduardo Gomes,Cama,1300,20000541,6,2021-04-02
+103,Eduardo Gomes,Xbox series s,2000,481,6,2021-05-20
+101,Nova cidade,Cadeira Gamer,1200,49592,2,2021-04-18
+102,Eduardo Gomes,Xbox series s,2000,200004434,19,2021-09-16
+106,Matriz,Fone de Ouvido,198,141000,9,2021-05-14
+101,Amazonas Shopping,Mouse,47,4428,3,2021-01-08
+105,Amazonas Shopping,Notebook,3115,17988,1,2021-12-02
+104,Avenida,Cadeira Gamer,1200,2592,9,2022-02-04
+102,Nova cidade,Berço,690,10934,17,2021-06-24
+105,Nova cidade,Guarda Roupa,710,10934,19,2021-07-04
+101,Cidade Nova,Berço,690,5663,2,2021-07-20
+102,Matriz,Microondas,600,41949,18,2021-10-29
+104,Eduardo Gomes,Cama,1300,41311,13,2022-01-28
+105,Amazonas Shopping,Notebook,3115,17988,2,2021-10-22
+102,Cidade Nova,Berço,690,5663,8,2021-06-23
+105,Eduardo Gomes,Sofá,1550,481,7,2021-08-17
+103,Nova cidade,Mi Band 6,400,14951,10,2022-02-09
+106,Avenida,Jogo de Panela,340,19231,6,2021-05-30
+103,Cidade Nova,Powerbank,120,13414,7,2022-01-04
+104,Avenida,Bebedouro,550,29020,20,2021-02-08
+106,Avenida,Fone de Ouvido,198,29020,3,2021-03-12
+104,Avenida,Teclado,215,19231,18,2022-02-07
+105,Amazonas Shopping,Monitor,1100,5657,6,2021-10-15
+103,Avenida,Fogão,1834,29020,19,2021-09-25
+102,Cidade Nova,Cadeira Gamer,1200,2123,19,2022-02-24
+102,Avenida,Guarda Roupa,710,49590,2,2022-01-21
+102,Cidade Nova,Fogão,1834,13414,9,2021-08-19
+103,Amazonas Shopping,Powerbank,120,4428,2,2022-01-13
+103,Eduardo Gomes,Jogo de Panela,340,481,6,2021-07-31
+106,Eduardo Gomes,Brinquedos,400,41414,10,2021-11-24
+104,Avenida,Fogão,1834,14141,19,2021-02-17
+102,Avenida,Samsung,1700,14141,3,2021-09-16
+102,Eduardo Gomes,Fone de Ouvido,198,200004434,12,2021-01-18
+106,Nova cidade,Mi Band 6,400,10934,16,2021-02-16
+106,Matriz,Bicicleta,1200,141000,14,2022-01-26
+103,Cidade Nova,Bicicleta,1200,2123,3,2021-12-19
+105,Nova cidade,Microondas,600,67889,17,2021-12-06
+101,Cidade Nova,Jogo de Panela,340,5663,18,2021-11-01
+106,Amazonas Shopping,Iphone,7500,15176,1,2021-09-16
+101,Nova cidade,Guarda Roupa,710,14951,9,2022-02-04
+104,Avenida,Teclado,215,29020,14,2021-02-27
+103,Cidade Nova,Guarda Roupa,710,11022,3,2021-09-12
+102,Avenida,Mi Band 6,400,14141,17,2021-02-10
+106,Eduardo Gomes,Jogo de Panela,340,200004434,12,2021-11-11
+102,Cidade Nova,Guarda Roupa,710,55354,9,2021-12-12
+103,Matriz,Ar condicionado,1700,481,7,2021-01-12
+106,Matriz,Monitor,1100,141000,8,2021-12-20
+102,Amazonas Shopping,Bicicleta,1200,4428,7,2021-04-21
+106,Avenida,Jogo de Panela,340,49590,18,2022-01-20
+104,Eduardo Gomes,Ar condicionado,1700,200004434,11,2021-08-06
+101,Nova cidade,Bebedouro,550,10934,11,2021-08-22
+106,Nova cidade,Mi Band 6,400,49592,6,2022-01-29
+106,Matriz,Mouse,47,141000,1,2021-08-02
+102,Matriz,Cama,1300,141000,2,2021-11-30
+104,Avenida,Fone de Ouvido,198,19231,16,2021-06-19
+102,Matriz,Mi Band 6,400,141000,4,2021-10-31
+104,Matriz,Microondas,600,481,2,2021-02-10
+106,Amazonas Shopping,Televisão,2320,15176,9,2021-01-24
+101,Amazonas Shopping,Teclado,215,5657,7,2021-11-17
+104,Nova cidade,Guarda Roupa,710,49592,17,2021-04-19
+106,Amazonas Shopping,Guarda Roupa,710,15176,6,2022-01-13
+102,Matriz,Geladeira,3456,141000,8,2021-09-06
+106,Nova cidade,Geladeira,3456,67889,12,2021-08-25
+105,Matriz,Microondas,600,44993,1,2021-09-13
+105,Nova cidade,Ar condicionado,1700,10934,13,2021-03-15
+103,Nova cidade,Guarda Roupa,710,34535,14,2021-06-30
+104,Amazonas Shopping,Powerbank,120,45689,5,2021-06-13
+102,Eduardo Gomes,Mouse,47,41414,3,2021-03-07
+101,Matriz,Cama,1300,41949,16,2021-03-18
+103,Cidade Nova,Cadeira Gamer,1200,55453,16,2021-06-24
+102,Cidade Nova,Microondas,600,5663,5,2021-04-01
+101,Amazonas Shopping,Xbox series s,2000,15176,15,2021-08-31
+101,Cidade Nova,Mi Band 6,400,13414,7,2022-02-25
+101,Matriz,Bicicleta,1200,481,14,2022-01-24
+101,Matriz,Fogão,1834,141000,20,2021-03-17
+101,Cidade Nova,Samsung,1700,2123,14,2022-01-17
+104,Eduardo Gomes,Geladeira,3456,200004434,16,2021-04-18
+103,Amazonas Shopping,Notebook,3115,5657,12,2021-11-06
+104,Avenida,Televisão,2320,49590,9,2021-07-02
+106,Matriz,Notebook,3115,141000,19,2022-01-31
+103,Eduardo Gomes,Guarda Roupa,710,200004434,16,2021-10-23
+105,Avenida,Geladeira,3456,49590,2,2021-05-01
+105,Avenida,Monitor,1100,19231,10,2021-10-15
+101,Amazonas Shopping,Mi Band 6,400,14522,13,2022-01-15
+103,Cidade Nova,Televisão,2320,55354,10,2021-12-18
+105,Avenida,Cama,1300,19231,14,2022-02-24
+105,Matriz,Brinquedos,400,41949,14,2021-11-28
+102,Nova cidade,Brinquedos,400,67889,12,2021-12-27
+105,Nova cidade,Teclado,215,49592,10,2021-04-30
+106,Amazonas Shopping,Mouse,47,5657,1,2021-11-20
+104,Nova cidade,Sofá,1550,67889,5,2021-06-03
+105,Cidade Nova,Berço,690,55453,11,2021-12-08
+104,Cidade Nova,Iphone,7500,5663,2,2022-01-04
+105,Avenida,Microondas,600,19231,14,2021-01-12
+104,Nova cidade,Fogão,1834,67889,5,2021-03-28
+102,Avenida,Sofá,1550,14141,8,2021-07-21
+105,Amazonas Shopping,Berço,690,5657,2,2021-08-19
+103,Amazonas Shopping,Xbox series s,2000,14522,3,2021-04-29
+102,Nova cidade,Mouse,47,14951,19,2022-01-27
+105,Avenida,Xbox series s,2000,49590,17,2021-11-06
+102,Amazonas Shopping,Sofá,1550,5657,3,2021-01-24
+103,Avenida,Bicicleta,1200,49590,16,2021-02-04
+106,Avenida,Powerbank,120,29020,10,2021-03-26
+105,Avenida,Jogo de Panela,340,14141,19,2021-04-28
+106,Avenida,Cama,1300,19231,2,2021-05-27
+106,Amazonas Shopping,Guarda Roupa,710,45689,16,2021-11-21
+102,Avenida,Samsung,1700,14141,17,2021-10-17
+105,Nova cidade,Jogo de Panela,340,14951,16,2021-12-25
+102,Eduardo Gomes,Bicicleta,1200,41414,13,2021-06-08
+101,Nova cidade,Notebook,3115,34535,1,2021-06-18
+106,Cidade Nova,Xbox series s,2000,2123,17,2021-08-16
+101,Avenida,Iphone,7500,2592,17,2021-02-25
+106,Matriz,Cama,1300,41949,19,2021-06-01
+104,Avenida,Microondas,600,19231,20,2021-09-16
+104,Matriz,Geladeira,3456,481,4,2021-07-04
+102,Avenida,Cadeira Gamer,1200,14141,17,2021-02-22
+101,Eduardo Gomes,Mi Band 6,400,41414,4,2021-03-03
+106,Eduardo Gomes,Geladeira,3456,41414,7,2021-09-30
+105,Amazonas Shopping,Cama,1300,15176,14,2021-12-20
+105,Nova cidade,Geladeira,3456,14951,16,2022-01-26
+104,Avenida,Brinquedos,400,49590,18,2021-11-24
+106,Avenida,Jogo de Panela,340,29020,16,2021-10-05
+104,Nova cidade,Mouse,47,14951,15,2021-03-08
+101,Nova cidade,Berço,690,11022,1,2021-02-08
+104,Amazonas Shopping,Microondas,600,45689,12,2021-02-03
+105,Eduardo Gomes,Iphone,7500,200004434,6,2021-09-16
+102,Cidade Nova,Guarda Roupa,710,2123,11,2021-09-23
+106,Cidade Nova,Cadeira Gamer,1200,55354,3,2021-11-05
+102,Avenida,Berço,690,2592,11,2021-09-28
+105,Nova cidade,Berço,690,10934,16,2021-05-05
+104,Nova cidade,Televisão,2320,34535,4,2021-06-25
+102,Eduardo Gomes,Iphone,7500,41414,10,2021-11-19
+106,Nova cidade,Powerbank,120,34535,4,2021-02-25
+105,Nova cidade,Cadeira Gamer,1200,49592,10,2022-01-27
+103,Eduardo Gomes,Brinquedos,400,200004434,18,2021-12-20
+105,Avenida,Iphone,7500,49590,4,2021-12-31
+102,Cidade Nova,Jogo de Panela,340,2123,14,2021-11-23
+104,Matriz,Sofá,1550,41949,6,2021-08-09
+104,Amazonas Shopping,Guarda Roupa,710,45689,11,2021-06-24
+105,Eduardo Gomes,Brinquedos,400,481,4,2021-03-01
+101,Cidade Nova,Televisão,2320,5663,10,2021-04-24
+103,Avenida,Fone de Ouvido,198,29020,13,2021-11-06
+102,Cidade Nova,Samsung,1700,55453,7,2021-10-29
+101,Nova cidade,Bicicleta,1200,14951,12,2021-04-25
+105,Eduardo Gomes,Mouse,47,41414,20,2021-07-05
+105,Nova cidade,Powerbank,120,10934,9,2021-01-27
+102,Eduardo Gomes,Sofá,1550,20000541,7,2022-02-15
+101,Matriz,Monitor,1100,141000,14,2021-01-04
+106,Amazonas Shopping,Fogão,1834,5657,10,2021-07-02
+103,Amazonas Shopping,Guarda Roupa,710,4428,4,2021-09-04
+104,Cidade Nova,Mouse,47,2123,9,2021-11-04
+101,Amazonas Shopping,Sofá,1550,5657,18,2021-03-03
+105,Eduardo Gomes,Mouse,47,481,15,2021-04-19
+101,Amazonas Shopping,Ar condicionado,1700,5657,6,2022-01-17
+104,Cidade Nova,Jogo de Panela,340,5663,3,2022-01-19
+103,Matriz,Mi Band 6,400,44993,5,2021-12-17
+101,Amazonas Shopping,Ar condicionado,1700,17988,15,2021-04-27
+104,Matriz,Powerbank,120,44993,20,2021-01-04
+103,Avenida,Cadeira Gamer,1200,49590,15,2022-01-17
+103,Amazonas Shopping,Cama,1300,45689,5,2021-10-26
+101,Eduardo Gomes,Mi Band 6,400,41311,20,2022-02-17
+101,Eduardo Gomes,Bebedouro,550,200004434,15,2021-12-07
+102,Nova cidade,Monitor,1100,14951,8,2021-09-20
+105,Cidade Nova,Xbox series s,2000,55453,6,2022-02-26
+101,Nova cidade,Monitor,1100,10934,2,2021-08-01
+104,Amazonas Shopping,Sofá,1550,14522,16,2021-07-20
+103,Matriz,Ar condicionado,1700,41949,15,2021-09-17
+106,Cidade Nova,Sofá,1550,55453,3,2021-07-27
+101,Amazonas Shopping,Ar condicionado,1700,45689,18,2021-02-15
+106,Amazonas Shopping,Fogão,1834,5657,10,2021-10-31
+105,Nova cidade,Brinquedos,400,67889,19,2021-12-20
+105,Nova cidade,Mouse,47,49592,9,2021-12-10
+101,Nova cidade,Bicicleta,1200,14951,12,2021-12-25
+105,Nova cidade,Teclado,215,14951,11,2021-10-27
+101,Avenida,Fogão,1834,2592,2,2021-12-30
+105,Amazonas Shopping,Cadeira Gamer,1200,45689,3,2021-10-16
+105,Nova cidade,Mouse,47,49592,11,2021-09-22
+105,Eduardo Gomes,Fogão,1834,20000541,7,2021-02-04
+104,Matriz,Guarda Roupa,710,44993,11,2021-11-26
+102,Matriz,Berço,690,44993,17,2021-12-20
+102,Nova cidade,Bicicleta,1200,49592,13,2021-01-15
+101,Eduardo Gomes,Mouse,47,20000541,10,2021-09-28
+104,Amazonas Shopping,Ar condicionado,1700,45689,12,2021-07-20
+106,Cidade Nova,Notebook,3115,2123,12,2021-04-05
+106,Cidade Nova,Bebedouro,550,5663,2,2021-01-28
+104,Amazonas Shopping,Bebedouro,550,5657,1,2021-07-30
+103,Nova cidade,Notebook,3115,10934,3,2021-05-09
+102,Eduardo Gomes,Teclado,215,41311,10,2021-08-20
+101,Avenida,Iphone,7500,49590,4,2021-05-03
+106,Amazonas Shopping,Berço,690,5657,2,2021-06-08
+106,Avenida,Xbox series s,2000,19231,19,2021-12-23
+105,Eduardo Gomes,Geladeira,3456,481,13,2021-12-10
+103,Nova cidade,Notebook,3115,49592,2,2022-01-04
+104,Amazonas Shopping,Televisão,2320,4428,15,2021-04-04
+105,Eduardo Gomes,Cama,1300,41311,7,2021-10-21
+105,Cidade Nova,Fogão,1834,13414,9,2021-07-17
+106,Avenida,Fogão,1834,14141,6,2021-03-19
+105,Avenida,Televisão,2320,29020,1,2022-02-23
+105,Avenida,Fone de Ouvido,198,14141,20,2021-01-22
+105,Avenida,Mouse,47,14141,15,2022-02-24
+102,Eduardo Gomes,Fone de Ouvido,198,41311,7,2021-12-02
+106,Cidade Nova,Samsung,1700,5663,4,2021-07-11
+104,Avenida,Sofá,1550,14141,9,2021-03-15
+105,Nova cidade,Cama,1300,10934,8,2021-02-27
+101,Amazonas Shopping,Powerbank,120,4428,9,2022-01-24
+102,Avenida,Fone de Ouvido,198,19231,4,2021-01-21
+102,Cidade Nova,Bicicleta,1200,13414,10,2021-08-31
+106,Avenida,Sofá,1550,2592,7,2022-02-06
+102,Eduardo Gomes,Cama,1300,481,20,2021-09-18
+102,Amazonas Shopping,Bicicleta,1200,4428,18,2021-07-09
+101,Cidade Nova,Samsung,1700,55453,4,2021-06-03
+102,Cidade Nova,Geladeira,3456,55354,15,2021-09-27
+103,Nova cidade,Guarda Roupa,710,14951,11,2021-05-22
+104,Eduardo Gomes,Geladeira,3456,481,20,2021-03-09
+105,Cidade Nova,Microondas,600,5663,5,2021-12-29
+101,Avenida,Bebedouro,550,14141,2,2021-11-05
+103,Nova cidade,Sofá,1550,10934,5,2021-09-17
+101,Cidade Nova,Jogo de Panela,340,55354,5,2021-12-14
+106,Eduardo Gomes,Geladeira,3456,20000541,1,2021-03-17
+103,Cidade Nova,Samsung,1700,11022,15,2021-08-20
+106,Eduardo Gomes,Mi Band 6,400,200004434,11,2021-04-17
+102,Avenida,Mi Band 6,400,2592,14,2022-01-25
+101,Avenida,Notebook,3115,14141,3,2021-07-23
+102,Avenida,Jogo de Panela,340,29020,11,2022-02-11
+104,Cidade Nova,Mi Band 6,400,5663,19,2021-07-05
+105,Avenida,Microondas,600,29020,10,2021-09-21
+103,Nova cidade,Sofá,1550,10934,7,2022-02-05
+105,Avenida,Geladeira,3456,19231,5,2021-07-28
+102,Amazonas Shopping,Mi Band 6,400,5657,14,2022-01-16
+103,Matriz,Brinquedos,400,141000,4,2021-02-07
+102,Avenida,Bebedouro,550,19231,15,2021-11-09
+102,Nova cidade,Notebook,3115,10934,8,2021-05-31
+102,Cidade Nova,Jogo de Panela,340,55453,6,2021-06-16
+106,Nova cidade,Iphone,7500,49592,11,2021-01-31
+102,Matriz,Mi Band 6,400,44993,6,2021-11-04
+105,Cidade Nova,Powerbank,120,55453,18,2021-11-02
+102,Matriz,Mi Band 6,400,481,3,2021-08-20
+106,Nova cidade,Bebedouro,550,34535,5,2022-01-20
+101,Cidade Nova,Geladeira,3456,13414,4,2021-11-18
+106,Matriz,Microondas,600,44993,4,2021-08-02
+101,Matriz,Sofá,1550,44993,1,2021-04-15
+105,Nova cidade,Bebedouro,550,49592,11,2021-01-02
+102,Cidade Nova,Televisão,2320,55453,10,2021-02-14
+101,Amazonas Shopping,Monitor,1100,15176,7,2021-05-17
+106,Avenida,Televisão,2320,29020,16,2021-10-03
+105,Eduardo Gomes,Bebedouro,550,41414,20,2021-11-18
+102,Eduardo Gomes,Samsung,1700,20000541,11,2021-09-07
+102,Matriz,Brinquedos,400,481,3,2021-11-21
+106,Nova cidade,Mouse,47,10934,4,2021-02-06
+101,Eduardo Gomes,Brinquedos,400,481,7,2021-06-21
+102,Cidade Nova,Xbox series s,2000,55453,20,2022-02-05
+102,Nova cidade,Mi Band 6,400,49592,5,2021-01-26
+106,Nova cidade,Fone de Ouvido,198,10934,6,2021-01-26
+104,Nova cidade,Cadeira Gamer,1200,34535,6,2021-11-01
+106,Amazonas Shopping,Iphone,7500,15176,16,2021-12-10
+104,Cidade Nova,Cadeira Gamer,1200,5663,5,2021-05-10
+104,Matriz,Teclado,215,44993,18,2021-12-23
+103,Avenida,Cadeira Gamer,1200,29020,4,2021-09-19
+105,Cidade Nova,Bicicleta,1200,55354,1,2022-01-02
+104,Matriz,Fogão,1834,41949,16,2022-01-23
+103,Matriz,Monitor,1100,41949,8,2021-02-13
+106,Cidade Nova,Geladeira,3456,55354,9,2021-09-30
+104,Cidade Nova,Microondas,600,5663,16,2021-09-22
+104,Cidade Nova,Cama,1300,2123,2,2021-08-12
+104,Cidade Nova,Berço,690,2123,2,2021-07-10
+106,Matriz,Teclado,215,481,18,2021-01-30
+101,Cidade Nova,Mi Band 6,400,13414,17,2021-07-09
+102,Eduardo Gomes,Ar condicionado,1700,41311,3,2021-12-01
+103,Avenida,Bebedouro,550,19231,13,2021-10-01
+102,Eduardo Gomes,Microondas,600,20000541,19,2021-12-10
+101,Avenida,Cama,1300,14141,15,2021-07-29
+105,Cidade Nova,Iphone,7500,55453,11,2021-07-13
+105,Amazonas Shopping,Microondas,600,17988,2,2022-01-09
+103,Avenida,Guarda Roupa,710,49590,13,2021-10-01
+105,Eduardo Gomes,Jogo de Panela,340,200004434,15,2021-06-25
+106,Matriz,Microondas,600,481,3,2021-01-18
+102,Nova cidade,Microondas,600,49592,15,2021-06-20
+103,Eduardo Gomes,Notebook,3115,41311,10,2021-05-23
+103,Cidade Nova,Xbox series s,2000,5663,14,2021-11-16
+104,Cidade Nova,Jogo de Panela,340,13414,13,2022-01-06
+105,Cidade Nova,Brinquedos,400,55354,8,2021-06-16
+102,Avenida,Teclado,215,49590,8,2022-02-27
+104,Cidade Nova,Sofá,1550,55354,11,2021-05-10
+103,Matriz,Mouse,47,44993,13,2021-10-23
+105,Matriz,Mouse,47,44993,14,2021-02-11
+104,Amazonas Shopping,Geladeira,3456,45689,1,2021-12-08
+104,Eduardo Gomes,Geladeira,3456,481,14,2021-11-22
+104,Cidade Nova,Bebedouro,550,55453,7,2021-03-23
+103,Eduardo Gomes,Iphone,7500,20000541,18,2021-11-28
+102,Avenida,Berço,690,29020,14,2021-07-05
+104,Eduardo Gomes,Ar condicionado,1700,41311,5,2021-06-13
+102,Amazonas Shopping,Ar condicionado,1700,17988,8,2021-09-07
+105,Avenida,Guarda Roupa,710,2592,5,2021-04-27
+105,Amazonas Shopping,Jogo de Panela,340,15176,20,2022-01-12
+104,Matriz,Monitor,1100,481,3,2021-09-03
+101,Matriz,Samsung,1700,41949,11,2021-06-28
+101,Matriz,Bebedouro,550,41949,13,2021-08-11
+105,Avenida,Cama,1300,49590,5,2021-04-19
+103,Eduardo Gomes,Samsung,1700,481,13,2021-11-26
+105,Eduardo Gomes,Geladeira,3456,20000541,7,2021-11-16
+105,Eduardo Gomes,Notebook,3115,481,11,2021-12-12
+103,Nova cidade,Powerbank,120,34535,14,2022-01-01
+105,Cidade Nova,Bebedouro,550,55453,7,2021-02-25
+101,Nova cidade,Bicicleta,1200,67889,1,2021-10-19
+104,Avenida,Fogão,1834,14141,4,2021-01-04
+104,Nova cidade,Guarda Roupa,710,11022,9,2021-08-16
+103,Eduardo Gomes,Cadeira Gamer,1200,481,15,2021-02-21
+102,Matriz,Cadeira Gamer,1200,44993,12,2021-12-04
+106,Nova cidade,Bebedouro,550,49592,5,2021-08-03
+106,Eduardo Gomes,Bicicleta,1200,200004434,15,2021-05-15
+101,Nova cidade,Jogo de Panela,340,67889,1,2021-07-14
+102,Eduardo Gomes,Mi Band 6,400,200004434,12,2021-03-10
+103,Avenida,Bicicleta,1200,29020,5,2021-05-20
+104,Cidade Nova,Televisão,2320,13414,1,2021-12-17
+104,Cidade Nova,Notebook,3115,13414,11,2021-03-31
+106,Cidade Nova,Iphone,7500,2123,17,2021-02-18
+104,Amazonas Shopping,Samsung,1700,17988,6,2021-03-30
+106,Matriz,Ar condicionado,1700,41949,14,2021-07-18
+102,Eduardo Gomes,Monitor,1100,200004434,13,2021-07-16
+105,Cidade Nova,Ar condicionado,1700,5663,11,2021-06-04
+101,Nova cidade,Teclado,215,14951,16,2021-04-26
+106,Cidade Nova,Televisão,2320,55453,6,2021-05-08
+105,Nova cidade,Fogão,1834,67889,18,2021-06-17
+105,Amazonas Shopping,Brinquedos,400,45689,15,2021-02-28
+101,Eduardo Gomes,Iphone,7500,20000541,7,2021-07-06
+103,Nova cidade,Monitor,1100,10934,3,2021-12-16
+106,Avenida,Cama,1300,49590,16,2021-03-21
+105,Eduardo Gomes,Microondas,600,41311,6,2021-03-24
+102,Eduardo Gomes,Mouse,47,20000541,19,2021-08-07
+106,Nova cidade,Televisão,2320,49592,3,2021-03-17
+103,Matriz,Brinquedos,400,41949,18,2021-11-03
+104,Matriz,Xbox series s,2000,44993,6,2021-01-01
+105,Amazonas Shopping,Jogo de Panela,340,5657,19,2021-07-06
+101,Amazonas Shopping,Fogão,1834,5657,2,2021-03-21
+104,Amazonas Shopping,Mi Band 6,400,4428,9,2021-10-09
+106,Amazonas Shopping,Fogão,1834,5657,6,2021-03-17
+101,Cidade Nova,Jogo de Panela,340,5663,18,2021-03-06
+101,Cidade Nova,Cadeira Gamer,1200,5663,4,2021-09-07
+102,Amazonas Shopping,Notebook,3115,15176,12,2021-02-20
+103,Eduardo Gomes,Mouse,47,481,12,2021-05-17
+102,Nova cidade,Notebook,3115,67889,1,2021-01-18
+104,Matriz,Mi Band 6,400,44993,11,2021-03-21
+104,Cidade Nova,Powerbank,120,2123,14,2021-11-23
+102,Avenida,Brinquedos,400,19231,15,2021-11-02
+105,Eduardo Gomes,Cama,1300,20000541,2,2021-01-14
+102,Eduardo Gomes,Samsung,1700,200004434,9,2021-03-13
+105,Matriz,Guarda Roupa,710,141000,4,2021-01-24
+106,Amazonas Shopping,Mi Band 6,400,4428,12,2022-02-09
+104,Eduardo Gomes,Notebook,3115,200004434,4,2022-01-20
+104,Eduardo Gomes,Notebook,3115,200004434,5,2021-12-23
+102,Avenida,Fone de Ouvido,198,14141,19,2021-10-14
+105,Matriz,Samsung,1700,44993,7,2021-07-03
+101,Nova cidade,Bicicleta,1200,34535,1,2021-09-18
+104,Avenida,Monitor,1100,29020,7,2021-01-02
+102,Eduardo Gomes,Cama,1300,41311,17,2021-08-05
+106,Nova cidade,Sofá,1550,49592,20,2022-02-01
+101,Eduardo Gomes,Xbox series s,2000,41311,20,2022-02-11
+106,Matriz,Ar condicionado,1700,44993,8,2021-12-28
+103,Eduardo Gomes,Fogão,1834,20000541,14,2021-12-02
+104,Cidade Nova,Mouse,47,13414,13,2021-11-28
+101,Matriz,Geladeira,3456,141000,7,2021-04-06
+102,Matriz,Samsung,1700,44993,2,2021-11-25
+101,Eduardo Gomes,Televisão,2320,41311,1,2021-03-20
+103,Matriz,Samsung,1700,41949,11,2022-02-16
+105,Nova cidade,Ar condicionado,1700,49592,13,2021-01-17
+101,Cidade Nova,Bicicleta,1200,5663,14,2021-09-25
+101,Amazonas Shopping,Sofá,1550,4428,5,2021-05-22
+103,Cidade Nova,Televisão,2320,2123,8,2021-09-10
+104,Cidade Nova,Fogão,1834,2123,17,2022-02-13
+101,Avenida,Brinquedos,400,14141,20,2021-03-27
+101,Avenida,Jogo de Panela,340,2592,16,2021-04-17
+103,Eduardo Gomes,Teclado,215,20000541,10,2021-03-23
+104,Cidade Nova,Samsung,1700,2123,20,2021-03-08
+106,Nova cidade,Iphone,7500,34535,10,2021-04-07
+102,Nova cidade,Samsung,1700,34535,14,2022-01-11
+105,Matriz,Cama,1300,44993,19,2021-04-23
+106,Nova cidade,Televisão,2320,49592,1,2021-10-13
+106,Nova cidade,Mi Band 6,400,10934,15,2021-02-18
+106,Matriz,Brinquedos,400,481,6,2021-02-28
+106,Cidade Nova,Ar condicionado,1700,55453,20,2021-01-09
+106,Matriz,Xbox series s,2000,11022,20,2021-12-31
+102,Eduardo Gomes,Ar condicionado,1700,41414,12,2021-10-29
+104,Matriz,Samsung,1700,481,14,2021-09-03
+102,Avenida,Fone de Ouvido,198,19231,19,2021-09-09
+102,Cidade Nova,Jogo de Panela,340,5663,14,2021-10-11
+101,Eduardo Gomes,Cadeira Gamer,1200,41414,15,2021-11-27
+103,Nova cidade,Notebook,3115,67889,1,2021-02-09
+104,Amazonas Shopping,Fogão,1834,17988,6,2021-05-28
+106,Nova cidade,Mi Band 6,400,34535,9,2021-08-24
+104,Amazonas Shopping,Microondas,600,14522,4,2021-10-01
+103,Avenida,Fone de Ouvido,198,49590,7,2021-12-04
+104,Nova cidade,Geladeira,3456,10934,5,2021-10-05
+102,Matriz,Notebook,3115,141000,14,2021-03-13
+101,Cidade Nova,Mouse,47,55354,18,2021-05-09
+101,Nova cidade,Fogão,1834,49592,19,2021-08-16
+106,Amazonas Shopping,Brinquedos,400,17988,12,2021-07-07
+103,Amazonas Shopping,Fone de Ouvido,198,17988,7,2021-12-28
+103,Matriz,Berço,690,41949,16,2021-10-22
+105,Cidade Nova,Brinquedos,400,13414,5,2021-07-30
+101,Eduardo Gomes,Mi Band 6,400,41311,8,2021-03-03
+106,Matriz,Guarda Roupa,710,481,2,2021-09-23
+102,Avenida,Fone de Ouvido,198,14141,2,2021-04-03
+105,Cidade Nova,Bebedouro,550,55354,10,2021-07-15
+104,Amazonas Shopping,Cadeira Gamer,1200,17988,20,2021-03-26
+105,Amazonas Shopping,Jogo de Panela,340,5657,2,2021-04-06
+103,Eduardo Gomes,Cadeira Gamer,1200,41311,3,2021-08-16
+104,Eduardo Gomes,Jogo de Panela,340,41414,15,2021-08-22
+104,Eduardo Gomes,Ar condicionado,1700,20000541,17,2021-01-16
+102,Avenida,Sofá,1550,2592,15,2021-06-10
+104,Eduardo Gomes,Fone de Ouvido,198,41311,8,2021-09-20
+102,Eduardo Gomes,Bicicleta,1200,41414,20,2021-06-04
+106,Nova cidade,Teclado,215,14951,12,2021-10-28
+103,Matriz,Cadeira Gamer,1200,44993,13,2021-09-10
+105,Nova cidade,Samsung,1700,10934,12,2021-09-11
+103,Matriz,Cadeira Gamer,1200,44993,15,2021-11-06
+102,Eduardo Gomes,Bebedouro,550,41414,17,2021-09-01
+103,Matriz,Bebedouro,550,44993,12,2021-05-23
+104,Eduardo Gomes,Jogo de Panela,340,200004434,1,2021-06-19
+101,Eduardo Gomes,Xbox series s,2000,20000541,17,2021-08-04
+101,Nova cidade,Bicicleta,1200,34535,10,2021-04-13
+104,Nova cidade,Iphone,7500,14951,19,2021-09-14
+103,Avenida,Iphone,7500,14141,12,2021-05-03
+103,Matriz,Bicicleta,1200,44993,17,2021-03-31
+105,Eduardo Gomes,Bicicleta,1200,20000541,10,2022-01-01
+101,Matriz,Cadeira Gamer,1200,44993,17,2021-09-29
+104,Amazonas Shopping,Monitor,1100,5657,3,2021-07-28
+104,Eduardo Gomes,Monitor,1100,481,19,2021-07-12
+104,Cidade Nova,Berço,690,2123,9,2021-02-10
+101,Avenida,Ar condicionado,1700,29020,12,2021-10-20
+101,Matriz,Jogo de Panela,340,44993,11,2021-11-12
+103,Eduardo Gomes,Sofá,1550,41414,6,2021-11-03
+102,Avenida,Teclado,215,49590,8,2021-09-28
+103,Cidade Nova,Teclado,215,13414,1,2021-07-17
+102,Cidade Nova,Ar condicionado,1700,55354,9,2021-03-16
+102,Avenida,Fogão,1834,2592,17,2021-03-14
+101,Nova cidade,Berço,690,10934,9,2022-02-11
+105,Nova cidade,Fogão,1834,10934,1,2021-04-18
+105,Cidade Nova,Cadeira Gamer,1200,2123,2,2021-05-02
+102,Cidade Nova,Teclado,215,13414,9,2021-11-09
+103,Eduardo Gomes,Fogão,1834,41311,6,2022-02-10
+106,Amazonas Shopping,Iphone,7500,14522,14,2021-07-05
+105,Nova cidade,Samsung,1700,11022,8,2021-12-05
+104,Matriz,Geladeira,3456,44993,8,2021-03-27
+105,Amazonas Shopping,Cadeira Gamer,1200,5657,6,2021-10-21
+106,Nova cidade,Monitor,1100,49592,2,2021-07-22
+101,Amazonas Shopping,Monitor,1100,15176,4,2021-02-02
+103,Amazonas Shopping,Samsung,1700,17988,8,2021-05-12
+105,Avenida,Iphone,7500,14141,2,2021-12-30
+104,Eduardo Gomes,Samsung,1700,20000541,15,2021-05-23
+101,Eduardo Gomes,Geladeira,3456,41311,5,2021-08-12
+105,Matriz,Cadeira Gamer,1200,141000,16,2021-10-05
+101,Amazonas Shopping,Berço,690,14522,2,2021-10-28
+102,Amazonas Shopping,Notebook,3115,5657,8,2021-10-05
+104,Amazonas Shopping,Geladeira,3456,45689,7,2021-10-10
+104,Avenida,Xbox series s,2000,14141,3,2021-07-10
+104,Cidade Nova,Powerbank,120,5663,12,2021-05-05
+104,Nova cidade,Powerbank,120,49592,7,2021-01-11
+104,Cidade Nova,Monitor,1100,55453,11,2022-02-17
+103,Avenida,Teclado,215,49590,5,2022-02-27
+106,Avenida,Notebook,3115,29020,7,2021-05-19
+106,Amazonas Shopping,Ar condicionado,1700,14522,10,2021-01-13
+101,Matriz,Mouse,47,44993,4,2021-07-11
+101,Amazonas Shopping,Fogão,1834,14522,6,2021-03-13
+102,Matriz,Cama,1300,44993,15,2021-12-25
+101,Eduardo Gomes,Sofá,1550,20000541,8,2021-12-16
+105,Cidade Nova,Brinquedos,400,5663,7,2021-11-21
+105,Eduardo Gomes,Powerbank,120,41414,19,2022-02-01
+101,Cidade Nova,Guarda Roupa,710,55354,15,2021-11-30
+102,Nova cidade,Guarda Roupa,710,67889,1,2021-08-15
+104,Matriz,Brinquedos,400,44993,19,2021-04-09
+103,Eduardo Gomes,Mi Band 6,400,200004434,11,2021-08-29
+105,Nova cidade,Fogão,1834,10934,11,2021-01-07
+103,Amazonas Shopping,Powerbank,120,4428,5,2021-11-04
+102,Nova cidade,Bebedouro,550,49592,16,2021-07-12
+106,Avenida,Guarda Roupa,710,14141,16,2022-01-08
+102,Avenida,Teclado,215,14141,19,2021-12-25
+102,Matriz,Geladeira,3456,141000,6,2022-01-30
+102,Eduardo Gomes,Geladeira,3456,41311,17,2021-05-25
+105,Eduardo Gomes,Guarda Roupa,710,20000541,19,2021-09-12
+103,Matriz,Mouse,47,481,5,2021-03-02
+106,Eduardo Gomes,Teclado,215,20000541,19,2021-03-16
+102,Avenida,Bebedouro,550,29020,9,2021-05-14
+106,Nova cidade,Bicicleta,1200,67889,4,2021-10-30
+103,Nova cidade,Fone de Ouvido,198,14951,7,2021-01-31
+103,Cidade Nova,Cadeira Gamer,1200,13414,1,2021-04-05
+106,Nova cidade,Mouse,47,10934,4,2021-02-08
+104,Nova cidade,Sofá,1550,49592,15,2021-06-11
+106,Matriz,Bebedouro,550,44993,9,2021-03-29
+101,Matriz,Geladeira,3456,41949,10,2021-06-05
+105,Avenida,Brinquedos,400,2592,17,2022-01-27
+101,Eduardo Gomes,Teclado,215,20000541,16,2022-01-29
+106,Nova cidade,Microondas,600,14951,17,2021-05-03
+101,Nova cidade,Iphone,7500,67889,19,2021-05-30
+106,Avenida,Monitor,1100,19231,1,2021-07-28
+105,Avenida,Cadeira Gamer,1200,2592,3,2021-03-17
+101,Eduardo Gomes,Sofá,1550,11022,5,2021-01-29
+101,Avenida,Fone de Ouvido,198,2592,14,2021-03-27
+106,Eduardo Gomes,Monitor,1100,41311,10,2021-08-28
+101,Amazonas Shopping,Sofá,1550,15176,15,2021-05-21
+106,Eduardo Gomes,Bicicleta,1200,481,17,2021-12-16
+106,Eduardo Gomes,Sofá,1550,200004434,11,2021-08-25
+105,Nova cidade,Ar condicionado,1700,14951,5,2021-07-16
+103,Eduardo Gomes,Ar condicionado,1700,20000541,19,2021-07-23
+101,Amazonas Shopping,Bebedouro,550,5657,11,2022-01-29
+105,Eduardo Gomes,Bicicleta,1200,200004434,14,2021-06-20
+104,Amazonas Shopping,Monitor,1100,14522,12,2022-01-07
+102,Nova cidade,Xbox series s,2000,49592,20,2021-12-26
+101,Matriz,Televisão,2320,41949,18,2021-07-03
+102,Nova cidade,Monitor,1100,49592,11,2022-01-17
+105,Eduardo Gomes,Mouse,47,481,8,2021-01-12
+103,Eduardo Gomes,Notebook,3115,41414,16,2021-11-04
+101,Matriz,Mi Band 6,400,481,9,2021-01-21
+106,Eduardo Gomes,Mi Band 6,400,20000541,19,2021-07-01
+101,Amazonas Shopping,Microondas,600,5657,6,2021-04-24
+101,Cidade Nova,Mi Band 6,400,55354,17,2021-03-19
+102,Cidade Nova,Cama,1300,13414,18,2021-02-20
+102,Amazonas Shopping,Brinquedos,400,4428,20,2021-12-12
+106,Avenida,Cadeira Gamer,1200,2592,6,2021-03-21
+104,Matriz,Monitor,1100,44993,8,2021-09-21
+106,Eduardo Gomes,Powerbank,120,481,5,2022-02-28
+106,Amazonas Shopping,Bebedouro,550,4428,11,2021-03-15
+105,Amazonas Shopping,Powerbank,120,14522,5,2021-01-01
+101,Matriz,Fone de Ouvido,198,481,1,2021-05-12
+103,Eduardo Gomes,Guarda Roupa,710,20000541,20,2021-03-31
+104,Matriz,Iphone,7500,141000,18,2021-11-13
+104,Avenida,Samsung,1700,14141,14,2021-07-25
+105,Nova cidade,Brinquedos,400,67889,14,2021-03-06
+101,Eduardo Gomes,Mi Band 6,400,41311,4,2022-02-22
+104,Nova cidade,Iphone,7500,10934,12,2021-09-18
+102,Matriz,Berço,690,44993,8,2021-01-11
+106,Cidade Nova,Mi Band 6,400,2123,9,2021-02-07
+106,Matriz,Guarda Roupa,710,41949,18,2021-06-14
+105,Matriz,Fone de Ouvido,198,481,12,2021-03-14
+103,Cidade Nova,Fone de Ouvido,198,5663,7,2021-06-29
+103,Eduardo Gomes,Cadeira Gamer,1200,20000541,5,2021-10-07
+104,Amazonas Shopping,Samsung,1700,5657,3,2021-01-16
+103,Matriz,Jogo de Panela,340,41949,16,2021-12-25
+105,Eduardo Gomes,Iphone,7500,200004434,17,2022-01-09
+101,Nova cidade,Monitor,1100,10934,15,2021-07-24
+105,Matriz,Iphone,7500,44993,16,2021-08-13
+104,Cidade Nova,Cadeira Gamer,1200,55453,17,2021-08-31
+102,Avenida,Sofá,1550,29020,20,2021-05-04
+101,Matriz,Microondas,600,481,12,2021-09-26
+102,Cidade Nova,Iphone,7500,55354,14,2021-02-07
+103,Nova cidade,Monitor,1100,67889,7,2021-04-02
+101,Avenida,Mi Band 6,400,14141,3,2021-05-21
+102,Avenida,Fogão,1834,29020,11,2021-02-26
+103,Eduardo Gomes,Teclado,215,41311,8,2021-09-14
+103,Cidade Nova,Televisão,2320,2123,20,2021-04-02
+103,Amazonas Shopping,Microondas,600,11022,4,2021-01-14
+105,Nova cidade,Fone de Ouvido,198,14951,1,2021-02-08
+102,Cidade Nova,Geladeira,3456,13414,16,2021-04-13
+102,Avenida,Mouse,47,2592,8,2021-07-27
+105,Avenida,Berço,690,19231,8,2021-08-02
+102,Matriz,Fogão,1834,41949,6,2021-05-15
+103,Cidade Nova,Iphone,7500,55453,20,2022-02-04
+102,Avenida,Jogo de Panela,340,2592,7,2021-11-15
+103,Avenida,Fogão,1834,29020,16,2021-03-25
+106,Avenida,Sofá,1550,29020,3,2021-10-01
+104,Avenida,Cadeira Gamer,1200,2592,17,2021-11-12
+106,Matriz,Teclado,215,44993,17,2021-04-07
+103,Cidade Nova,Ar condicionado,1700,55354,10,2021-10-17
+103,Eduardo Gomes,Powerbank,120,200004434,16,2021-07-30
+104,Eduardo Gomes,Jogo de Panela,340,41414,14,2021-09-12
+101,Cidade Nova,Teclado,215,2123,8,2022-02-20
+106,Avenida,Mi Band 6,400,2592,3,2021-03-12
+103,Avenida,Televisão,2320,29020,4,2021-10-25
+102,Nova cidade,Monitor,1100,34535,4,2021-07-12
+106,Nova cidade,Ar condicionado,1700,34535,19,2021-12-22
+105,Amazonas Shopping,Fogão,1834,14522,15,2021-02-10
+104,Avenida,Brinquedos,400,14141,13,2021-01-13
+104,Nova cidade,Microondas,600,10934,19,2021-10-30
+106,Eduardo Gomes,Bebedouro,550,41414,20,2021-06-01
+105,Avenida,Berço,690,29020,5,2021-02-23
+102,Matriz,Sofá,1550,141000,18,2021-05-22
+101,Eduardo Gomes,Microondas,600,20000541,5,2022-01-04
+105,Amazonas Shopping,Bicicleta,1200,14522,6,2022-02-15
+104,Matriz,Bicicleta,1200,141000,14,2021-04-20
+102,Avenida,Jogo de Panela,340,29020,15,2021-11-06
+102,Eduardo Gomes,Bebedouro,550,41311,9,2022-02-25
+106,Eduardo Gomes,Iphone,7500,481,9,2021-01-09
+105,Eduardo Gomes,Brinquedos,400,41311,15,2021-08-13
+101,Cidade Nova,Bebedouro,550,5663,8,2021-12-05
+103,Avenida,Powerbank,120,2592,18,2022-02-05
+103,Matriz,Cadeira Gamer,1200,141000,18,2021-03-27
+106,Eduardo Gomes,Teclado,215,481,18,2021-11-25
+101,Avenida,Samsung,1700,14141,3,2021-05-18
+104,Amazonas Shopping,Notebook,3115,4428,16,2021-11-20
+103,Matriz,Brinquedos,400,11022,14,2021-07-07
+102,Amazonas Shopping,Fogão,1834,15176,16,2022-02-24
+106,Eduardo Gomes,Xbox series s,2000,200004434,17,2021-11-11
+102,Amazonas Shopping,Guarda Roupa,710,4428,1,2021-05-01
+101,Eduardo Gomes,Microondas,600,481,6,2021-04-12
+102,Eduardo Gomes,Fogão,1834,481,8,2021-10-04
+103,Nova cidade,Berço,690,14951,1,2021-01-16
+105,Cidade Nova,Guarda Roupa,710,2123,5,2021-04-20
+105,Amazonas Shopping,Teclado,215,14522,17,2021-01-05
+106,Nova cidade,Bebedouro,550,49592,10,2021-12-29
+102,Nova cidade,Powerbank,120,14951,17,2021-08-20
+105,Avenida,Mouse,47,19231,5,2021-07-18
+102,Avenida,Berço,690,14141,15,2021-01-08
+106,Eduardo Gomes,Cama,1300,20000541,11,2021-08-02
+101,Cidade Nova,Televisão,2320,13414,9,2021-12-16
+106,Eduardo Gomes,Xbox series s,2000,20000541,12,2022-02-22
+104,Eduardo Gomes,Mi Band 6,400,200004434,6,2021-02-09
+103,Avenida,Jogo de Panela,340,2592,16,2022-01-29
+102,Matriz,Televisão,2320,41949,11,2021-06-12
+101,Eduardo Gomes,Sofá,1550,200004434,15,2021-08-28
+106,Matriz,Jogo de Panela,340,41949,19,2021-07-01
+103,Eduardo Gomes,Berço,690,41414,20,2021-03-26
+102,Avenida,Jogo de Panela,340,49590,11,2022-02-26
+102,Matriz,Ar condicionado,1700,41949,16,2021-07-04
+105,Matriz,Brinquedos,400,41949,20,2021-06-23
+103,Matriz,Bebedouro,550,44993,7,2021-01-21
+103,Cidade Nova,Samsung,1700,2123,3,2022-01-18
+106,Cidade Nova,Samsung,1700,55453,16,2021-02-04
+104,Matriz,Televisão,2320,44993,7,2021-09-15
+102,Amazonas Shopping,Jogo de Panela,340,4428,17,2022-01-08
+105,Nova cidade,Mouse,47,34535,1,2021-04-10
+102,Matriz,Mi Band 6,400,44993,7,2021-07-08
+103,Nova cidade,Televisão,2320,10934,12,2021-12-01
+103,Eduardo Gomes,Bebedouro,550,481,5,2021-08-03
+102,Amazonas Shopping,Powerbank,120,17988,15,2021-10-06
+103,Avenida,Cama,1300,2592,7,2022-01-31
+101,Cidade Nova,Monitor,1100,55453,4,2022-02-26
+103,Eduardo Gomes,Powerbank,120,41414,10,2021-05-25
+103,Eduardo Gomes,Iphone,7500,481,16,2021-04-27
+101,Cidade Nova,Mi Band 6,400,2123,10,2022-02-04
+101,Avenida,Televisão,2320,2592,11,2021-09-18
+105,Cidade Nova,Powerbank,120,55453,5,2021-08-16
+103,Eduardo Gomes,Monitor,1100,481,13,2021-10-01
+103,Nova cidade,Ar condicionado,1700,67889,19,2021-03-21
+103,Nova cidade,Samsung,1700,11022,8,2021-08-21
+102,Cidade Nova,Jogo de Panela,340,2123,1,2021-04-07
+102,Matriz,Cadeira Gamer,1200,141000,18,2021-11-06
+106,Amazonas Shopping,Powerbank,120,15176,12,2022-02-10
+102,Avenida,Sofá,1550,19231,2,2021-08-11
+102,Matriz,Fone de Ouvido,198,41949,19,2021-05-20
+106,Cidade Nova,Geladeira,3456,13414,2,2021-09-19
+102,Cidade Nova,Ar condicionado,1700,55453,19,2021-09-19
+105,Nova cidade,Geladeira,3456,34535,10,2022-01-12
+101,Matriz,Cadeira Gamer,1200,44993,9,2021-08-29
+103,Amazonas Shopping,Bebedouro,550,5657,9,2021-12-15
+104,Matriz,Xbox series s,2000,141000,18,2021-01-17
+105,Cidade Nova,Powerbank,120,55354,17,2021-03-22
+101,Nova cidade,Berço,690,49592,12,2021-05-11
+104,Cidade Nova,Notebook,3115,5663,19,2021-01-02
+106,Avenida,Xbox series s,2000,19231,2,2021-06-05
+106,Amazonas Shopping,Teclado,215,5657,9,2021-04-08
+104,Cidade Nova,Berço,690,55453,4,2021-08-07
+106,Nova cidade,Ar condicionado,1700,49592,8,2021-01-23
+106,Nova cidade,Teclado,215,67889,11,2021-08-20
+106,Cidade Nova,Samsung,1700,5663,12,2021-04-12
+105,Avenida,Berço,690,29020,15,2021-09-23
+101,Eduardo Gomes,Sofá,1550,481,18,2021-09-09
+104,Nova cidade,Sofá,1550,34535,16,2021-04-14
+102,Cidade Nova,Cama,1300,55354,16,2021-06-04
+104,Matriz,Berço,690,141000,7,2021-07-03
+101,Amazonas Shopping,Notebook,3115,17988,11,2021-01-04
+102,Cidade Nova,Bicicleta,1200,55354,10,2021-06-19
+106,Avenida,Bebedouro,550,2592,3,2021-09-21
+101,Eduardo Gomes,Mouse,47,11022,9,2021-02-27
+104,Amazonas Shopping,Powerbank,120,5657,15,2021-06-11
+106,Amazonas Shopping,Brinquedos,400,17988,10,2021-07-06
